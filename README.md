@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**kylel9204/kylel9204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello! I'm Kyle!
+## Aspiring Game Developer and High School Student
+Focusing on General Education at Milpitas High
+### Current Projects
+- None as of now
+### Currently Learning
+- Java Basics
+- Lua Basics
+### Technical Skills
+- Languages: Python
+- Tools: Spyder
+### How to Reach Me:
+- Email: lkyle8228@gmail.com
